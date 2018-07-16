@@ -76,7 +76,7 @@ See https://ipld.github.io/js-cid
 
 ## Contribute
 
-[![](https://cdn.rawgit.com/jbenet/contribute-ipfs-gif/master/img/contribute.gif)](https://github.com/ipfs/community/blob/master/contributing.md)
+[![](https://cdn.rawgit.com/jbenet/contribute-ipfs-gif/master/img/contribute.gif)](https://github.com/ipfs/community/blob/master/contributing.md) [![Greenkeeper badge](https://badges.greenkeeper.io/ipld/js-cid.svg)](https://greenkeeper.io/)
 
 Contributions welcome. Please check out [the issues](https://github.com/ipld/js-cid/issues).
 
